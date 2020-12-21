@@ -1,0 +1,14 @@
+.Button {
+  color: black;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  display: flex;
+  height: 70px;
+  position: relative;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.Button.operator {
+  color: solid #3333ff;
+}
